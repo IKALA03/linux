@@ -1,4 +1,4 @@
-# Disable unnecessary Apache modules
+# Schakeld niet gebruikte apache2 modules uit
 sudo a2dismod status
 sudo a2dismod autoindex
 
